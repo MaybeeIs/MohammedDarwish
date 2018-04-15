@@ -1,0 +1,148 @@
+body {
+    background-color: #c7c7a0;
+}
+
+
+U1 {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 0px;
+    color: white;
+    position: fixed;
+    left: 450px;
+    font-size: 25px;
+    
+}
+
+U1:hover {
+    background-color: gray;
+    font-size: 27px;
+}
+
+
+
+U2 {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 90PX;
+    font-size: 50PX;
+    
+}
+
+U2USE {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 90PX;
+    font-size: 55PX;
+    background-color: gray;
+    
+}
+
+U2:hover {
+    background-color: gray;
+    font-size: 55px;
+}
+
+U3 {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 550PX;
+    font-size: 50PX;
+    
+}
+
+U3USE {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 550PX;
+    font-size: 55PX;
+    background-color: gray;
+    
+}
+
+U3:hover {
+    background-color: gray;
+    font-size: 55px;
+}
+
+U4 {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 900PX;
+    font-size: 50PX;
+    
+}
+
+U4USE {
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: 'Comfortaa', cursive;
+    top: 60PX;
+    color: white;
+    position: fixed;
+    left: 900PX;
+    font-size: 55PX;
+    background-color: gray;
+}
+
+U4:hover {
+    background-color: gray;
+    font-size: 55px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+PR {
+    font-family: times new roman;
+    position: fixed;
+    font-size: 25px;
+    left: 380px;
+    top: 160px;
+}
+
+Email {
+    font-size: 50px;
+    font-family: 'Comfortaa', cursive;
+    position: fixed;
+    left: 150px;
+}
+
+Email:hover {
+    font-size: 55px;
+    font-family: 'Comfortaa', cursive;
+    position: fixed;
+    left: 110px;
+    background-color: black;
+    color: white;
+    text-shadow: 3px 3px #423e3e;
+}
+
+
+
+
+
+
